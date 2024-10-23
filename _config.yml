@@ -22,8 +22,8 @@ author: Sewon Lee
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Education: "https://beautifuljekyll.com"
+    - Publication: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 ################
